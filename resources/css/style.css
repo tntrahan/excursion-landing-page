@@ -20,11 +20,12 @@ a {
     display: block;
     color: aquamarine;
     font-size: 16px;
+    margin: 2% auto;
 }
 
 img {
     display: block;
-    margin: auto 2%;
+    margin: 2% auto;
 }
 
 footer {
