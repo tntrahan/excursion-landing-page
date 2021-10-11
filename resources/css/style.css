@@ -4,6 +4,24 @@ body {
     text-align: center;
 }
 
+header .mainHeader {
+    font: normal 50px Verdana ;
+}
+
 header {
-    font: Verdana 50px;
+    font: 300 42px Verdana;
+}
+
+link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+img {
+    display: block;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
