@@ -4,7 +4,8 @@ body {
     background-color: black;
     color: white;
     text-align: center;
-    font-family: "Open Sans";
+    font: 20px "Open Sans";
+
 }
 
 header .mainHeader {
@@ -16,14 +17,14 @@ header {
 }
 
 a {
+    display: block;
     color: aquamarine;
     font-size: 16px;
 }
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto 2%;
 }
 
 footer {
