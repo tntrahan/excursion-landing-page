@@ -1,24 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+
 body {
     background-color: black;
     color: white;
     text-align: center;
+    font-family: "Open Sans";
 }
 
 header .mainHeader {
-    font: normal 50px Verdana ;
+    font: normal 50px "Raleway" ;
 }
 
 header {
-    font: 300 42px Verdana;
+    font: 300 42px "Raleway";
 }
 
-link {
+a {
     color: aquamarine;
     font-size: 16px;
 }
 
 img {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
